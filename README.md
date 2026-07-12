@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is a Machine Learning and Natural Language Processing (NLP) based Resume Screening System developed as part of the Future Interns Machine Learning Internship – Task 3.
+This project is a Machine Learning and Natural Language Processing (NLP) based Resume Screening System 
 
 The system automatically compares resumes with a job description, ranks candidates based on similarity, and identifies missing skills required for the job role.
 
