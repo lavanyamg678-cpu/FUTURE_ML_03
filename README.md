@@ -113,7 +113,8 @@ The project generates:
 ## Author
 
 Lavanya M G
-BE Student|Machine Learning Interns
+
+BE Student | Machine Learning Interns
 Jawaharlal Nehru National College of Engineering,Shimoga
 
 ## Acknowledgement
