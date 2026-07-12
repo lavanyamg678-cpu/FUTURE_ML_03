@@ -4,3 +4,5 @@ matplotlib
 scikit-learn
 nltk
 spacy
+pdfplumber
+jupyter
